@@ -1,6 +1,6 @@
 # Windows-Task-Scheduler-Tutorial
 
-[![](https://github.com/TechTutoPPT/Windows-Task-Scheduler-Tutorial/blob/main/cover.PNG)](https://youtu.be/RUNBfFD5F8s)
+[![](https://github.com/TechTutoPPT/Windows-Task-Scheduler-Tutorial/blob/main/cover.PNG)](https://youtu.be/uIRxjjSHQKM)
 
 如果你有嘗試過Windows+Linux雙重開機系統的話, 你有沒有留意到當你啟動過Linux後再進入Windows系統時, 系統顯示的時間與實際時間有對不上的情況?
 原因是這兩系統使用的定時標準不同, Linux使用的是UTC, Windows則使用RTC, 那可以怎樣解決呢? 方法後簡單, 只要Windows與NTP伺服器作出同步便可:
